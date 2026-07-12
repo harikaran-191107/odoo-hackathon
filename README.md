@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29935135/README.md)# TransitOps – Smart Transport Operations Platform
+TransitOps – Smart Transport Operations Platform
 
 A full-stack transport management system built for an 8-hour hackathon. Handles
 vehicles, drivers, trips, maintenance, and fuel/expense tracking with automatic
