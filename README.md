@@ -220,13 +220,14 @@ TransitOps helps transport businesses:
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](<img width="1915" height="923" alt="image" src="https://github.com/user-attachments/assets/c62fb4cd-9e24-4c8b-9ec2-e5edfb511e29" />
-)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c62fb4cd-9e24-4c8b-9ec2-e5edfb511e29" width="800"/>
+</p>
 
 ### 📊 Dashboard
-![Dashboard](<img width="1908" height="917" alt="image" src="https://github.com/user-attachments/assets/0697b7a0-488d-48e2-bdc5-b4d32b666667" />
-)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0697b7a0-488d-48e2-bdc5-b4d32b666667" width="800"/>
+</p>
 ## 👥 Team
 
 - Harikaran S
