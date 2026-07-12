@@ -1,4 +1,4 @@
-TransitOps – Smart Transport Operations Platform
+# 🚀 TransitOps – Smart Transport Operations Platform
 
 A full-stack transport management system built for an 8-hour hackathon. Handles
 vehicles, drivers, trips, maintenance, and fuel/expense tracking with automatic
@@ -209,18 +209,27 @@ All routes except `/api/auth/register` and `/api/auth/login` require
   automated test suite, and the UI intentionally keeps styling minimal so you
   can focus on demoing the business logic.## How to Run
 
-**##how to run**
+## 🎯 Impact
 
-1. Clone repo
-2. cd backend → npm install → node server.js
-3. cd frontend → npm install → npm start
-4. Setup MongoDB
+TransitOps helps transport businesses:
+- Reduce manual errors
+- Improve efficiency
+- Track operations in real-time
+- Make data-driven decisions
 
-**Login page**
-<img width="1915" height="923" alt="image" src="https://github.com/user-attachments/assets/c62fb4cd-9e24-4c8b-9ec2-e5edfb511e29" />
+## 📸 Screenshots
 
-**Dashboard page**
-<img width="1908" height="917" alt="image" src="https://github.com/user-attachments/assets/0697b7a0-488d-48e2-bdc5-b4d32b666667" />
+### 🔐 Login Page
+![Login](<img width="1915" height="923" alt="image" src="https://github.com/user-attachments/assets/c62fb4cd-9e24-4c8b-9ec2-e5edfb511e29" />
+)
 
+### 📊 Dashboard
+![Dashboard](<img width="1908" height="917" alt="image" src="https://github.com/user-attachments/assets/0697b7a0-488d-48e2-bdc5-b4d32b666667" />
+)
 
+## 👥 Team
 
+- Harikaran S
+- Sudharsan A
+- Shibanasri K
+- Durga R
